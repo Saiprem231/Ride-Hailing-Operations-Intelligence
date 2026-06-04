@@ -1,0 +1,10 @@
+# Ignore Python Virtual Environments
+.venv/
+venv/
+__pycache__/
+*.__pyc
+
+
+# Ignore local system caches or temporary Power BI user layouts
+*.tmp
+*.log
