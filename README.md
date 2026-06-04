@@ -173,11 +173,5 @@ Double-click on **`powerbi/Ride_Hailing_Operations_Dashboard.pbix`** to open the
 
 ---
 
-### 🌟 Why This Documentation is Excellent for Your Profile
-1. **Professional Formatting:** It makes great use of code blocks, clear tables, and architectural wireframes to look structured and organized.
-2. **Clear Technical Communication:** It explicitly points out complex terms that recruiters scan for, such as **B-Tree Indexing**, **$O(\log N)$ Reduction**, **CTEs**, **LAG functions**, and **Waterfall Funnel Cascades**.
-3. **Easy to Navigate:** It details exactly what is inside your `sql/` and `powerbi/` folders, making it simple for a hiring manager to browse through your work.
-
-Go ahead and save this into your `README.md`, run your final Git commit, and push it up to GitHub. Your repository is officially complete and ready to stand out! Outstanding job getting this whole platform deployed!
 
 ```
